@@ -9,6 +9,15 @@
 
 ---
 
+
+
+## 🧰 Prerequisites
+
+- ✅ Java JDK 17+ (if running `.jar`)
+- ✅ MySQL Server installed and running
+- ✅ NetBeans or IDE (if editing source)
+- ❌ Java NOT required for `.exe` version!
+
 ## 🎯 Features
 
 - 🔐 **Admin Login System** – Secure access to all operations
@@ -38,5 +47,5 @@
 
 ---
 
-## 📦 Project Structure
+
 
